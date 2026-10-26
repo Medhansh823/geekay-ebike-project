@@ -1,0 +1,12 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private records: keep receipts/order documents out of the public repository
+private/
+*.pdf
+*.jpg
+*.jpeg
+*.png
